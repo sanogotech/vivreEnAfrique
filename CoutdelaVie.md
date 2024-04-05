@@ -35,6 +35,7 @@ Analyse détaillée des pourcentages de dépenses dans différents pays avec des
 
 ### Logement
 - **60%** : Coût élevé dû à la précarité du logement et à l'insuffisance des infrastructures, particulièrement dans les zones urbaines.
+-  La limitation à 60% reflète une contrainte budgétaire réaliste, soulignant l'importance de vivre selon ses moyens. En Côte d'Ivoire et au Sénégal, cette ajustement montre une pression significative sur le budget due au coût du logement.
 
 ### Alimentation
 - **Côte d'Ivoire 30%**, **Sénégal 50%** : Coûts relativement élevés en raison de l'importation de nombreux produits et des marges des intermédiaires.
@@ -44,6 +45,10 @@ Analyse détaillée des pourcentages de dépenses dans différents pays avec des
 
 ### Astuces
 - **Logement** : Envisager la colocation ou le logement partagé.
+- **Chercher des appartements légèrement en périphérie** des centres-villes peut réduire considérablement les coûts de logement.
+- **L'achat groupé de nourriture** et la préparation des repas à la maison peuvent aider à contrôler et réduire les dépenses alimentaires.
+- **Utiliser des moyens de transport économiques** comme le vélo, le covoiturage, ou les transports en commun peut réduire les frais de déplacement.
+
 - **Alimentation** : Favoriser les achats groupés.
 - **Éducation** : Rechercher des bourses ou des écoles offrant un bon rapport qualité-prix.
 - **Crédits** : Consolider les dettes pour de meilleurs taux.
@@ -64,6 +69,13 @@ Analyse détaillée des pourcentages de dépenses dans différents pays avec des
 - **Transport** : Privilégier les transports en commun ou le covoiturage.
 - **Éducation** : Tirer parti des programmes d'éducation publique et des aides financières.
 - **Crédits** : Renégocier les prêts et éviter les dettes à taux élevé.
+
+
+
+### Astuces pour S'en Sortir
+
+
+Cette révision souligne l'importance d'une gestion budgétaire prudente et de la recherche de solutions créatives pour maximiser le bien-être financier dans le contexte économique de chaque pays.
 
 ## Conclusion
 
