@@ -17,9 +17,9 @@ Cette section propose une comparaison du coût de la vie entre la Côte d'Ivoire
 
 ## Commentaires
 
-Ajuster les pourcentages du logement en Côte d'Ivoire et au Sénégal à 60% du revenu net moyen offre une perspective plus optimiste sur l'accessibilité au logement dans ces régions. Cette modification hypothétique pourrait refléter un marché immobilier plus favorable ou une augmentation des salaires, améliorant ainsi la qualité de vie et la capacité d'épargne des individus.
+La conversion en Franc CFA souligne davantage les disparités économiques et les défis auxquels les ménages font face en Côte d'Ivoire et au Sénégal par rapport aux pays développés comme la France, l'Angleterre, et le Canada. Les différences dans la capacité d'épargne et la répartition des dépenses deviennent encore plus apparentes, offrant une perspective plus précise sur le pouvoir d'achat et la qualité de vie dans ces pays.
 
-- **Côte d'Ivoire** voit désormais une possibilité d'épargne nulle, suggérant un équilibre entre revenus et dépenses. Cela représente une amélioration significative par rapport à la situation précédente de dépenses excédentaires.
-- **Sénégal** présente encore un déficit (33.75%), mais la réduction du poids du logement offre une marge légèrement meilleure pour d'autres dépenses ou pour l'épargne.
+- En **Côte d'Ivoire** et au **Sénégal**, l'épargne négative reflète les défis économiques significatifs, avec des dépenses qui surpassent souvent les revenus disponibles.
+- Dans les pays comme la **France**, l'**Angleterre**, et le **Canada**, malgré des coûts de vie absolus plus élevés, la part proportionnelle des dépenses par rapport aux revenus permet une meilleure capacité d'épargne, indiquant une situation financière plus stable pour la classe moyenne.
 
-Ces ajustements soulignent l'impact significatif des coûts du logement sur le budget général des ménages, particulièrement dans des économies où les revenus sont limités. Ils montrent également comment des améliorations dans l'accessibilité au logement ou dans les revenus peuvent contribuer à une meilleure stabilité financière pour la classe moyenne.
+Ce tableau met en évidence l'importance d'analyser le coût de la vie non seulement en termes de montants absolus mais aussi en tenant compte du pouvoir d'achat local et des revenus moyens pour obtenir une image complète de la situation économique et du bien-être des individus dans différents pays.
