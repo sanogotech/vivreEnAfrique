@@ -26,3 +26,46 @@ L'introduction des catégories **éducation/enfants** et **crédits divers** mon
 - La situation est plus précaire en **Côte d'Ivoire** et au **Sénégal**, où le coût de l'éducation et les remboursements de crédits consomment une part significative du revenu, laissant peu de marge pour l'épargne et même conduisant à un déficit budgétaire. Cela souligne l'importance de politiques de soutien aux familles et d'accès à l'éducation et au crédit à des conditions favorables.
 
 Cette analyse met en évidence les disparités économiques entre les pays développés et en développement, en particulier dans les capacités d'épargne et la gestion des dépenses liées à l'éducation et aux crédits. Elle souligne l'importance des revenus adéquats, du soutien social, et de l'accès à l'éducation et au crédit à des conditions équitables pour améliorer la qualité de vie de la classe moyenne.
+
+# Analyse du Coût de la Vie et Stratégies de Gestion Financière
+
+Analyse détaillée des pourcentages de dépenses dans différents pays avec des astuces pour optimiser la gestion financière.
+
+## Côte d'Ivoire et Sénégal
+
+### Logement
+- **60%** : Coût élevé dû à la précarité du logement et à l'insuffisance des infrastructures, particulièrement dans les zones urbaines.
+
+### Alimentation
+- **Côte d'Ivoire 30%**, **Sénégal 50%** : Coûts relativement élevés en raison de l'importation de nombreux produits et des marges des intermédiaires.
+
+### Éducation/Enfants et Crédits Divers
+- **15% pour Éducation/Enfants** et **20% pour Crédits Divers** : Charges importantes liées à l'éducation privée et aux remboursements de prêts.
+
+### Astuces
+- **Logement** : Envisager la colocation ou le logement partagé.
+- **Alimentation** : Favoriser les achats groupés.
+- **Éducation** : Rechercher des bourses ou des écoles offrant un bon rapport qualité-prix.
+- **Crédits** : Consolider les dettes pour de meilleurs taux.
+
+## France, Angleterre, Canada
+
+### Logement
+- **France 40%**, **Angleterre 56.25%**, **Canada 53.57%** : Coûts élevés, surtout dans les centres urbains.
+
+### Alimentation
+- **Faible** (**France 10%**, **Angleterre 9.38%**, **Canada 8.93%**) : Indique un pouvoir d'achat plus élevé.
+
+### Éducation/Enfants et Crédits Divers
+- **Moins contraignantes** grâce aux systèmes d'éducation subventionnés et aux taux de crédit avantageux.
+
+### Astuces
+- **Logement** : Explorer des zones moins centrales ou des solutions de logement alternatif.
+- **Transport** : Privilégier les transports en commun ou le covoiturage.
+- **Éducation** : Tirer parti des programmes d'éducation publique et des aides financières.
+- **Crédits** : Renégocier les prêts et éviter les dettes à taux élevé.
+
+## Conclusion
+
+Les stratégies proposées visent à optimiser les dépenses essentielles, améliorer la capacité d'épargne et renforcer la résilience financière des ménages face aux défis économiques.
+
