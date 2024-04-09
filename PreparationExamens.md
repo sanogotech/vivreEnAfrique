@@ -2,7 +2,7 @@
 
 ## Introduction
 
-En tant que jeune musulman, il est essentiel de reconnaître l'importance de commencer chaque entreprise avec ALLAH (Subhanahu wa ta'ala) et de se rappeler que le succès dans toute quête, y compris les études et les examens, vient de Lui. Avant de plonger dans les stratégies d'étude et la préparation aux examens (étapes 1 à 7), il est crucial d'intégrer la foi, la prière et la spiritualité (étape 8) dans chaque aspect de votre parcours. Cela signifie non seulement chercher l'aide divine dans vos efforts mais aussi maintenir votre pratique spirituelle en parallèle avec vos études.
+En tant que jeune musulman, il est essentiel de reconnaître l'importance de commencer chaque entreprise avec ALLAH (Subhanahu wa ta'ala) et de se rappeler que le succès dans toute quête, y compris les études et les examens, vient de Lui. Avant de plonger dans les stratégies d'étude et la préparation aux examens (étapes 1 à 9), il est crucial d'intégrer la foi, la prière et la spiritualité (étape 10) dans chaque aspect de votre parcours. Cela signifie non seulement chercher l'aide divine dans vos efforts mais aussi maintenir votre pratique spirituelle en parallèle avec vos études.
 
 ## 1. Planification et organisation
 
